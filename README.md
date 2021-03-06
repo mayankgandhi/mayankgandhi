@@ -7,7 +7,7 @@
 
 [![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayankgandhi)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[//]: <> (Here are some ideas to get you started:)
 
 - 🔭 I’m currently working on building my UIKit skills.
 - 🌱 I’m currently learning Vapor and Firebase.
